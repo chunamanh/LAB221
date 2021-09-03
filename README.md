@@ -1,1 +1,2 @@
-Some java code that i used for LAB221 of FPT
+Some java code that i used for subject LAB221 of my university
+
